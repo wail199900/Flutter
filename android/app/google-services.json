@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992111898520",
+    "project_id": "application-25fae",
+    "storage_bucket": "application-25fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992111898520:android:168d5e20df84dda43285ed",
+        "android_client_info": {
+          "package_name": "com.example.activities_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRY-LsY5hfb2eqO1doDsBdu9OZidGpXaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
